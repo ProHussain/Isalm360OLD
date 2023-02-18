@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526908669557",
+    "project_id": "islam360-9fb21",
+    "storage_bucket": "islam360-9fb21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526908669557:android:15f04982531c5cf8f0423c",
+        "android_client_info": {
+          "package_name": "com.hashmac.islam360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526908669557-8p5ss1lpfktj0t8mddk0vt6c09812555.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC0M5KFL8IXq00NPfTlW0UL3miaTx1-wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526908669557-8p5ss1lpfktj0t8mddk0vt6c09812555.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

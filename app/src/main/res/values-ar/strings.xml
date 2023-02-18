@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اذكار المسلم التلقائي : الموسوعه الاسلاميه المطور</string>
+    <string name="title_activity_occasions">الاذكار حسب المناسبه</string>
+    <string name="title_activity_category">الاقسام</string>
+    <string name="title_activity_favorites">الاذكار المفضله</string>
+    <string name="title_activity_azkars">الاذكار والادعيه</string>
+    <string name="title_activity_azkar">الاذكار الاسلاميه</string>
+    <string name="title_about">عنا</string>
+    <string name="about_msg"> Check your internet connection please.</string>
+    <string name="copy_msg">تم نسخ النص الى الحافظه</string>
+    <string name="action_copy">نسخ</string>
+    <string name="action_add_to_favorites">اضف الى القائمه المفضله</string>
+    <string name="action_share">مشاركه</string>
+    <string name="rate_it">قيم التطبيق</string>
+    <string name="search">بحث</string>
+    <string name="share">النشر بواسطه</string>
+    <string name="title_activity_user_setting">الاعدادات</string>
+    <string name="speaker_enable">القارئ الالي</string>
+    <string name="notif">التنبيهات</string>
+    <string name="pref_update_setting">الخواص العامه</string>
+    <string name="pref_other">اعدادات اخرى</string>
+    <string name="pref_user_time">وقت عرض ذكر اليوم</string>
+    <string name="btn_azkar">الاذكار</string>
+    <string name="btn_occasions">فئات الاذكار</string>
+    <string name="btn_favorites">المفضله</string>
+    <string name="btn_categories">الاقسام</string>
+    <string name="btn_reminder">منبه الاذكار</string>
+    <string name="btn_LoadMore">تحميل مزيد من الاذكار</string>
+    <string name="Chose_Frequency">اختر الوقت الانسب لك لعرض الاذكار</string>
+    <string name="Radio5txt">عرض الاذكار  كل 5 خمس دقائق</string>
+    <string name="Radio15txt">عرض الاذكار كل 15 دقيقه</string>
+    <string name="Radio60txt">عرض الاذكار كل 60 دقيقه</string>
+    <string name="Radio120txt">"عرض الاذكار كل 129 دقيقه "</string>
+    <string name="imagebset">الاعدادات</string>
+    <string name="imagev">منبه الاذكار</string>
+
+
+    <string name="wrong_link">عذراً, الرابط غير صالح</string>
+
+
+    <!-- Languages -->
+
+    <string name="bahasa_langu">Bahasa Language</string>
+    <string name="turkish_langu">Turkish Language</string>
+    <string name="arabic_langu">Arabic Language</string>
+    <string name="russian_langu">Russian Language</string>
+    <string name="malay_langu">Malay Language</string>
+    <string name="eng_langu">English Language</string>
+
+
+
+    <string name="Sura1">سورة الفاتحة</string>
+    <string name="Link1">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/001.mp3</string>
+
+
+    <string name="Sura2">سورة البقرة</string>
+    <string name="Link2">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/002.mp3</string>
+
+
+    <string name="Sura3">سورة آل عمران</string>
+    <string name="Link3">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/003.mp3</string>
+
+    <string name="Sura4">سورة النساء</string>
+    <string name="Link4">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/004.mp3</string>
+
+
+    <string name="Sura5">سورة المائدة</string>
+    <string name="Link5">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/005.mp3</string>
+
+
+    <string name="Sura6">سورة الأنعام</string>
+    <string name="Link6">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/006.mp3</string>
+
+    <string name="Sura7">سورة الأعراف</string>
+    <string name="Link7">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/007.mp3</string>
+
+
+    <string name="Sura8">سورة الأنفال</string>
+    <string name="Link8">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/008.mp3</string>
+
+
+    <string name="Sura9">سورة التوبة</string>
+    <string name="Link9">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/009.mp3</string>
+
+    <string name="Sura10">سورة يونس</string>
+    <string name="Link10">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3</string>
+
+    <string name="Sura11">سورة هود</string>
+    <string name="Link11">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/011.mp3</string>
+
+
+    <string name="Sura12">سورة يوسف</string>
+    <string name="Link12">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/012.mp3</string>
+
+
+    <string name="Sura13">سورة الرعد</string>
+    <string name="Link13">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/013.mp3</string>
+
+    <string name="Sura14">سورة إبراهيم</string>
+    <string name="Link14">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/014.mp3</string>
+
+
+    <string name="Sura15">سورة الحجر</string>
+    <string name="Link15">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/015.mp3</string>
+
+
+    <string name="Sura16">سورة النحل</string>
+    <string name="Link16">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/016.mp3</string>
+
+    <string name="Sura17">سورة الإسراء</string>
+    <string name="Link17">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/017.mp3</string>
+
+
+    <string name="Sura18">سورة الكهف</string>
+    <string name="Link18">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/018.mp3</string>
+
+
+    <string name="Sura19">سورة مريم</string>
+    <string name="Link19">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/019.mp3</string>
+
+    <string name="Sura20">سورة طه</string>
+    <string name="Link20">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/020.mp3</string>
+
+    <string name="Sura21">سورة الأنبياء</string>
+    <string name="Link21">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/021.mp3</string>
+
+
+    <string name="Sura22">سورة الحج</string>
+    <string name="Link22">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/022.mp3</string>
+
+
+    <string name="Sura23">سورة المؤمنون</string>
+    <string name="Link23">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/023.mp3</string>
+
+    <string name="Sura24">سورة النور</string>
+    <string name="Link24">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/024.mp3</string>
+
+
+    <string name="Sura25">سورة الفرقان</string>
+    <string name="Link25">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/025.mp3</string>
+
+
+    <string name="Sura26">سورة الشعراء</string>
+    <string name="Link26">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/026.mp3</string>
+
+    <string name="Sura27">سورة النمل</string>
+    <string name="Link27">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/027.mp3</string>
+
+
+    <string name="Sura28">سورة القصص</string>
+    <string name="Link28">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/028.mp3</string>
+
+
+    <string name="Sura29">سورة العنكبوت</string>
+    <string name="Link29">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/029.mp3</string>
+
+    <string name="Sura30">سورة الروم</string>
+    <string name="Link30">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/030.mp3</string>
+
+    <string name="Sura31">سورة لقمان</string>
+    <string name="Link31">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/031.mp3</string>
+
+
+    <string name="Sura32">سورة السجدة</string>
+    <string name="Link32">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/032.mp3</string>
+
+
+    <string name="Sura33">سورة الأحزاب</string>
+    <string name="Link33">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/033.mp3</string>
+
+    <string name="Sura34">سورة سبأ</string>
+    <string name="Link34">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/034.mp3</string>
+
+
+    <string name="Sura35">سورة فاطر</string>
+    <string name="Link35">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/035.mp3</string>
+
+
+    <string name="Sura36">سورة يس</string>
+    <string name="Link36">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/036.mp3</string>
+
+    <string name="Sura37">سورة الصافات</string>
+    <string name="Link37">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/037.mp3</string>
+
+
+    <string name="Sura38">سورة ص</string>
+    <string name="Link38">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/038.mp3</string>
+
+
+    <string name="Sura39">سورة الزمر</string>
+    <string name="Link39">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/039.mp3</string>
+
+    <string name="Sura40">سورة غافر</string>
+    <string name="Link40">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/040.mp3</string>
+
+    <string name="Sura41">سورة فصلت</string>
+    <string name="Link41">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/041.mp3</string>
+
+
+    <string name="Sura42">سورة الشورى</string>
+    <string name="Link42">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/042.mp3</string>
+
+
+    <string name="Sura43">سورة الزخرف</string>
+    <string name="Link43">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/043.mp3</string>
+
+    <string name="Sura44">سورة الدخان</string>
+    <string name="Link44">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/044.mp3</string>
+
+
+    <string name="Sura45">سورة الجاثية</string>
+    <string name="Link45">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/045.mp3</string>
+
+
+    <string name="Sura46">سورة الأحقاف</string>
+    <string name="Link46">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/046.mp3</string>
+
+    <string name="Sura47">سورة محمد</string>
+    <string name="Link47">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/047.mp3</string>
+
+
+    <string name="Sura48">سورة الفتح</string>
+    <string name="Link48">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/048.mp3</string>
+
+
+    <string name="Sura49">سورة الحجرات</string>
+    <string name="Link49">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/049.mp3</string>
+
+    <string name="Sura50">سورة ق</string>
+    <string name="Link50">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/050.mp3</string>
+
+    <string name="Sura51">سورة الذاريات</string>
+    <string name="Link51">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/051.mp3</string>
+
+
+    <string name="Sura52">سورة الطور</string>
+    <string name="Link52">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/052.mp3</string>
+
+
+    <string name="Sura53">سورة النجم</string>
+    <string name="Link53">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/053.mp3</string>
+
+    <string name="Sura54">سورة القمر</string>
+    <string name="Link54">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/054.mp3</string>
+
+
+    <string name="Sura55">سورة الرحمن</string>
+    <string name="Link55">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/055.mp3</string>
+
+
+    <string name="Sura56">سورة الواقعة</string>
+    <string name="Link56">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/056.mp3</string>
+
+    <string name="Sura57">سورة الحديد</string>
+    <string name="Link57">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/057.mp3</string>
+
+
+    <string name="Sura58">سورة المجادلة</string>
+    <string name="Link58">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/058.mp3</string>
+
+
+    <string name="Sura59">سورة الحشر</string>
+    <string name="Link59">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/059.mp3</string>
+
+    <string name="Sura60">سورة الممتحنة</string>
+    <string name="Link60">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/060.mp3</string>
+
+    <string name="Sura61">سورة الصف</string>
+    <string name="Link61">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/061.mp3</string>
+
+
+    <string name="Sura62">سورة الجمعة</string>
+    <string name="Link62">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/062.mp3</string>
+
+
+    <string name="Sura63">سورة المنافقون</string>
+    <string name="Link63">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/063.mp3</string>
+
+    <string name="Sura64">سورة التغابن</string>
+    <string name="Link64">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/064.mp3</string>
+
+
+    <string name="Sura65">سورة الطلاق</string>
+    <string name="Link65">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/065.mp3</string>
+
+
+    <string name="Sura66">سورة التحريم</string>
+    <string name="Link66">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/066.mp3</string>
+
+    <string name="Sura67">سورة الملك</string>
+    <string name="Link67">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/067.mp3</string>
+
+
+    <string name="Sura68">سورة القلم</string>
+    <string name="Link68">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/068.mp3</string>
+
+
+    <string name="Sura69">سورة الحاقة</string>
+    <string name="Link69">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/069.mp3</string>
+
+    <string name="Sura70">سورة المعارج</string>
+    <string name="Link70">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/070.mp3</string>
+
+    <string name="Sura71">سورة نوح</string>
+    <string name="Link71">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/071.mp3</string>
+
+
+    <string name="Sura72">سورة الجن</string>
+    <string name="Link72">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/072.mp3</string>
+
+
+    <string name="Sura73">سورة المزمل</string>
+    <string name="Link73">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/073.mp3</string>
+
+    <string name="Sura74">سورة المدثر</string>
+    <string name="Link74">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/074.mp3</string>
+
+
+    <string name="Sura75">سورة القيامة</string>
+    <string name="Link75">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/075.mp3</string>
+
+
+    <string name="Sura76">سورة الإنسان</string>
+    <string name="Link76">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/076.mp3</string>
+
+    <string name="Sura77">سورة المرسلات</string>
+    <string name="Link77">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/077.mp3</string>
+
+
+    <string name="Sura78">سورة النبأ</string>
+    <string name="Link78">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/078.mp3</string>
+
+
+    <string name="Sura79">سورة النازعات</string>
+    <string name="Link79">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/079.mp3</string>
+
+    <string name="Sura80">سورة عبس</string>
+    <string name="Link80">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/080.mp3</string>
+
+    <string name="Sura81">سورة التكوير</string>
+    <string name="Link81">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/081.mp3</string>
+
+
+    <string name="Sura82">سورة الانفطار</string>
+    <string name="Link82">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/082.mp3</string>
+
+
+    <string name="Sura83">سورة المطففين</string>
+    <string name="Link83">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/083.mp3</string>
+
+    <string name="Sura84">سورة الانشقاق</string>
+    <string name="Link84">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/084.mp3</string>
+
+
+    <string name="Sura85">سورة البروج</string>
+    <string name="Link85">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/085.mp3</string>
+
+
+    <string name="Sura86">سورة الطارق</string>
+    <string name="Link86">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/086.mp3</string>
+
+    <string name="Sura87">سورة الأعلى</string>
+    <string name="Link87">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/087.mp3</string>
+
+
+    <string name="Sura88">سورة الغاشية</string>
+    <string name="Link88">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/088.mp3</string>
+
+
+    <string name="Sura89">سورة الفجر</string>
+    <string name="Link89">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/089.mp3</string>
+
+    <string name="Sura90">سورة البلد</string>
+    <string name="Link90">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/090.mp3</string>
+
+    <string name="Sura91">سورة الشمس</string>
+    <string name="Link91">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/091.mp3</string>
+
+
+    <string name="Sura92">سورة الليل</string>
+    <string name="Link92">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/092.mp3</string>
+
+
+    <string name="Sura93">سورة الضحى</string>
+    <string name="Link93">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/093.mp3</string>
+
+    <string name="Sura94">سورة الشرح</string>
+    <string name="Link94">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/094.mp3</string>
+
+
+    <string name="Sura95">سورة التين</string>
+    <string name="Link95">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/095.mp3</string>
+
+
+    <string name="Sura96">سورة العلق</string>
+    <string name="Link96">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/096.mp3</string>
+
+    <string name="Sura97">سورة القدر</string>
+    <string name="Link97">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/097.mp3</string>
+
+
+    <string name="Sura98">سورة البينة</string>
+    <string name="Link98">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/098.mp3</string>
+
+
+    <string name="Sura99">سورة الزلزلة</string>
+    <string name="Link99">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/099.mp3</string>
+
+    <string name="Sura100">سورة العاديات</string>
+    <string name="Link100">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/100.mp3</string>
+
+    <string name="Sura101">سورة القارعة</string>
+    <string name="Link101">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/101.mp3</string>
+
+
+    <string name="Sura102">سورة التكاثر</string>
+    <string name="Link102">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/102.mp3</string>
+
+
+    <string name="Sura103">سورة العصر</string>
+    <string name="Link103">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/103.mp3</string>
+
+    <string name="Sura104">سورة الهمزة</string>
+    <string name="Link104">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/104.mp3</string>
+
+
+    <string name="Sura105">سورة الفيل</string>
+    <string name="Link105">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/105.mp3</string>
+
+
+    <string name="Sura106">سورة قريش</string>
+    <string name="Link106">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/106.mp3</string>
+
+    <string name="Sura107">سورة الماعون</string>
+    <string name="Link107">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/107.mp3</string>
+
+
+    <string name="Sura108">سورة الكوثر</string>
+    <string name="Link108">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/108.mp3</string>
+
+
+    <string name="Sura109">سورة الكافرون</string>
+    <string name="Link109">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/109.mp3</string>
+
+    <string name="Sura110">سورة النصر</string>
+    <string name="Link110">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/110.mp3</string>
+
+    <string name="Sura111">سورة المسد</string>
+    <string name="Link111">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/111.mp3</string>
+
+
+    <string name="Sura112">سورة الإخلاص</string>
+    <string name="Link112">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/112.mp3</string>
+
+
+    <string name="Sura113">سورة الفلق</string>
+    <string name="Link113">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/113.mp3</string>
+
+    <string name="Sura114">سورة الناس</string>
+    <string name="Link114">https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/114.mp3</string>
+
+
+    <string name="title_activity_quran">القرأن الكريم</string>
+    <string name="no_internet">لا يوجد اتصال بالانترنت</string>
+    <string name="btn_quranlist">القرأن الكريم</string>
+    <string name="db_source">azkarabic.db</string>
+    <string name="azkar_of_day">اذكار اليوم</string>
+
+
+    <string name="interstitial_ad_unit_id">ca-app-pub-6513294132054391/9961216666</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6513294132054391/6822604351</string>
+    <string name="Admob_App_ID">ca-app-pub-6513294132054391~5423205856</string>
+    <string name="qibla_compass_title">بوصلة القبلة</string>
+    <string name="qibla">القبلة</string>
+    <string name="to_use_the_compass_properly">لاستخدام البوصلة بشكل صحيح:</string>
+    <string name="make_sure_your_connection_is_enabled">- تأكد من تمكين اتصالك بالإنترنت</string>
+    <string name="make_sure_your_location_is_enabled">- تأكد من تمكين موقعك</string>
+
+
+    <string name="upcoming_prayer">الصلاة القادمة</string>
+    <string name="fajr">الفجر</string>
+    <string name="sunrise">الشروق</string>
+    <string name="dhuhr">ظهر</string>
+    <string name="asr">"عصر "</string>
+    <string name="maghrib">المغرب</string>
+    <string name="isha">"العشاء "</string>
+    <string name="midnight">منتصف الليل</string>
+    <string name="adhan">"أذان "</string>
+
+</resources>

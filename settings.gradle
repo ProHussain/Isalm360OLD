@@ -1,0 +1,24 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+        jcenter()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter()
+        maven {url "https://maven.google.com"}
+        maven { url "https://jitpack.io" }
+        maven {
+            url "http://dl.bintray.com/glomadrian/maven"
+            allowInsecureProtocol = true
+        }
+    }
+}
+rootProject.name = "Islam360"
+include ':app'
